@@ -13,3 +13,12 @@
 }
 .gender {
 }
+
+.btn{
+    width: 100%;
+    background-color: beige;
+    text-align: center;
+    padding: 10px;
+    user-select: none;
+    cursor: pointer;
+}
